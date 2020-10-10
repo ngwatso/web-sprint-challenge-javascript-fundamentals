@@ -18,6 +18,8 @@ surfaceArea () {
 
 const cuboid = new CuboidMaker(4, 5, 5);
 
+// STRETCH
+
 class CubeMaker extends CuboidMaker {
     constructor(attr) {
         super(attr);
